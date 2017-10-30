@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Alex Health</string>
+    <string name="days_left">"????? Days Left"</string>
+    <string name="features_suggestion_hint">(ex: spotify integration)</string>
+    <string name="button_submit">submit</string>
+</resources>
